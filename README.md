@@ -1,12 +1,16 @@
 # Capstone-Project-4
-### Company's Introduction
+## Company's Introduction
 
 ![62847850327](https://github.com/Harishkmr33/Capstone-Project-4/assets/122456211/8bde41cc-11a7-4a60-9b4d-80ea6fc3a557)
 
 Zomato is an Indian restaurant aggregator and food delivery start-up founded by Deepinder Goyal and Pankaj Chaddah in 2008. Zomato provides information, menus and user-reviews of restaurants, and also has food delivery options from partner restaurants in select cities. India is quite famous for its diverse multi cuisine available in a large number of restaurants and hotel resorts, which is reminiscent of unity in diversity. Restaurant business in India is always evolving. More Indians are warming up to the idea of eating restaurant food whether by dining outside or getting food delivered. The growing number of restaurants in every state of India has been a motivation to inspect the data to get some insights, interesting facts and figures about the Indian food industry in each city. So, this project focuses on analyzing the Zomato restaurant data for each city in India.
 
+## Problem Statement
 
-### Project Overview
+The aim of this machine learning project is to analyze customer sentiments expressed in reviews and provide valuable conclusions through visualizations. Additionally, the project involves clustering Zomato restaurants into different segments. By leveraging this analysis, the project aims to address several business cases, including assisting customers in finding the best restaurants in their locality and identifying areas where the company can improve and grow. The project utilizes valuable data on cuisine and costing for cost vs. benefit analysis and employs sentiment analysis to assess customer feedback. Furthermore, the metadata of reviewers will be used to identify influential critics in the industry.
+
+
+## Project Overview
 
 * This project focuses on analyzing the Zomato restaurant data for Hyderabad city in 
 India to gain insights and provide useful conclusions for both customers and the company. The project involves sentiment analysis of customer reviews and clustering of restaurants into different segments. By visualizing the data, it becomes easier to analyze and draw instant insights.
