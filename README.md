@@ -36,7 +36,6 @@ India to gain insights and provide useful conclusions for both customers and the
 10. Gensim
 11. PyLDAvis
 
-
 ### Graphs used for representation:
 1. Bar plot
 2. Pie plot
@@ -49,7 +48,6 @@ India to gain insights and provide useful conclusions for both customers and the
 9. Violin plot
 10. Scatter plot
 
-
 ### ML Models used for training & testing:
 1. KMEANS CLUSTERING
 2. AGGLOMERATIVE CLUSTERING
@@ -57,5 +55,4 @@ India to gain insights and provide useful conclusions for both customers and the
 4. VADER
 
 
-
-> In conclusion, this project demonstrates the effectiveness of clustering and sentiment analysis in gaining a deeper understanding of Zomato restaurant data. The insights derived from the analysis can greatly benefit both restaurants and customers in making informed decisions. The project can be extended to other cities or countries to gain insights into eating habits and preferences in different regions.
+**In conclusion, this project demonstrates the effectiveness of clustering and sentiment analysis in gaining a deeper understanding of Zomato restaurant data. The insights derived from the analysis can greatly benefit both restaurants and customers in making informed decisions. The project can be extended to other cities or countries to gain insights into eating habits and preferences in different regions.**
