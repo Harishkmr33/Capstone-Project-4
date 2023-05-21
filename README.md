@@ -17,7 +17,7 @@ India to gain insights and provide useful conclusions for both customers and the
 
 * The analysis reveals that the restaurants in the city are grouped into two clusters based on their Cuisines, Number of cuisines, and Average cost for two. The sentiment analysis indicates that customers generally hold a positive sentiment towards the restaurants.
 
-**Libraries used in EDA & Machine Learning:**
+### **Libraries used in EDA & Machine Learning:**
 1. Pandas
 2. Numpy
 3. Matplotib
@@ -31,7 +31,7 @@ India to gain insights and provide useful conclusions for both customers and the
 11. PyLDAvis
 
 
-**Graphs used for representation:**
+### **Graphs used for representation:**
 1. Bar plot
 2. Pie plot
 3. Box Plot
@@ -44,7 +44,7 @@ India to gain insights and provide useful conclusions for both customers and the
 10. Scatter plot
 
 
-**ML Models used for training & testing:**
+### **ML Models used for training & testing:**
 1. KMEANS CLUSTERING
 2. AGGLOMERATIVE CLUSTERING
 3. LATENT DRICLET ALLOCATION
